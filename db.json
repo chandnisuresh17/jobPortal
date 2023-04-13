@@ -1,0 +1,21 @@
+{
+
+  "users":[
+  
+   {
+  
+  "id":1,
+  
+   "email": "kutty123chandnisuresh2000@gmail.com",
+  
+   "password": "123452",
+  
+   "name": "Chandni Suresh",
+  
+   "role":"Developer"
+  
+  }
+  
+   ]
+  
+  }
